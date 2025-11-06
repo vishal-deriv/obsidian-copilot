@@ -130,7 +130,7 @@
     "flexsearch": "^0.8.205",
     "fuzzysort": "^3.1.0",
     "jotai": "^2.10.3",
-    "koa": "^2.14.2",
+    "koa": "^3.0.3",
     "koa-proxies": "^0.12.3",
     "langchain": "^1.0.1",
     "lexical": "^0.34.0",
